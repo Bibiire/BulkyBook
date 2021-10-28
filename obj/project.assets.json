@@ -2085,11 +2085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bibiireoluyide/Projects/BulkyBook/BulkyBook/BulkyBook.csproj",
+      "projectUniqueName": "/Users/bibiireoluyide/Projects/BulkyBook/BulkyBook.csproj",
       "projectName": "BulkyBook",
-      "projectPath": "/Users/bibiireoluyide/Projects/BulkyBook/BulkyBook/BulkyBook.csproj",
+      "projectPath": "/Users/bibiireoluyide/Projects/BulkyBook/BulkyBook.csproj",
       "packagesPath": "/Users/bibiireoluyide/.nuget/packages/",
-      "outputPath": "/Users/bibiireoluyide/Projects/BulkyBook/BulkyBook/obj/",
+      "outputPath": "/Users/bibiireoluyide/Projects/BulkyBook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
